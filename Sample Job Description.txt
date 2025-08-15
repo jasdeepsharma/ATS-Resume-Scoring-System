@@ -1,0 +1,56 @@
+Job Description
+Position: Senior Software Engineer
+
+Company: TechCorp Inc.
+
+Location: San Francisco, CA (Remote Friendly)
+
+Job Description:
+
+TechCorp Inc. is at the forefront of cloud-based enterprise solutions, and we are looking for a seasoned Senior Software Engineer to join our dynamic and growing team. The ideal candidate will have a passion for building scalable, high-performance applications and a proven track record of delivering robust software. You will be responsible for designing, developing, and deploying new features for our flagship product, working with a modern tech stack.
+
+Responsibilities:
+
+Design, develop, and maintain high-quality, reusable, and reliable code.
+
+Collaborate with cross-functional teams to define, design, and ship new features.
+
+Work with product managers to translate requirements into technical specifications.
+
+Ensure the performance, quality, and responsiveness of applications.
+
+Identify and correct bottlenecks and fix bugs.
+
+Help maintain code quality, organization, and automation.
+
+Participate in agile development processes, including sprint planning, daily stand-ups, and retrospectives.
+
+Required Skills & Qualifications:
+
+5+ years of professional software development experience.
+
+Bachelor's degree in Computer Science, Engineering, or a related field.
+
+Strong proficiency in Python and experience with frameworks like Django or Flask.
+
+Expertise in front-end technologies, including React, JavaScript, and CSS.
+
+Solid experience with AWS services (EC2, S3, Lambda, RDS).
+
+Proficiency with containerization technologies like Docker and orchestration with Kubernetes.
+
+Experience with relational databases (e.g., PostgreSQL, MySQL) and SQL.
+
+Strong understanding of Git and CI/CD pipelines (e.g., Jenkins, GitLab CI).
+
+Preferred Skills:
+
+Master's degree in Computer Science.
+
+Experience with Infrastructure as Code (IaC) using Terraform.
+
+Familiarity with monitoring and logging tools (e.g., Prometheus, Grafana, ELK Stack).
+
+Experience working in an Agile/Scrum development process.
+
+Knowledge of microservices architecture.
